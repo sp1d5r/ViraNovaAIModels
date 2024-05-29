@@ -62,6 +62,8 @@ be able to use to produce outputs.
 We attach a regression head to the output of the encoding stages where we try to optimise for the Mean squared error 
 of the output predicted by the encodings and our regression values. 
 
+**Graphs:**
+
 
 # Textual Models - GPT.3.5 (BASE)
 
@@ -71,6 +73,8 @@ For this textual model we'll look at the output of GPT's auto-complete feature w
 how well the model predicts the output of the model. 
 
 We'll perform this several times and then calculate the average of the outputs for this model. 
+
+
 
 
 # Textual Models - 3.5 Finetuned

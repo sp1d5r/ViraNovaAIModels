@@ -1,3 +1,5 @@
 /venv/*
 /wandb/*
 /venv
+.idea
+.idea/*
