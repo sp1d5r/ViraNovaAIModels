@@ -62,8 +62,18 @@ be able to use to produce outputs.
 We attach a regression head to the output of the encoding stages where we try to optimise for the Mean squared error 
 of the output predicted by the encodings and our regression values. 
 
-**Graphs:**
+## Graphs:
 
+### Training and Validation (Steps)
+![Training Steps](https://github.com/sp1d5r/ViraNovaAIModels/blob/0fedce40685e896e02fa1a50f81d42fcbcb2a774/graphs/RoBERTa%20/Training%20Steps.png)
+![Validation Steps](https://github.com/sp1d5r/ViraNovaAIModels/blob/0fedce40685e896e02fa1a50f81d42fcbcb2a774/graphs/RoBERTa%20/Validation%20Steps.png)
+
+### Training and Validation (Epochs)
+![Training Epochs](https://github.com/sp1d5r/ViraNovaAIModels/blob/0fedce40685e896e02fa1a50f81d42fcbcb2a774/graphs/RoBERTa%20/Training%20Epochs.png)
+![Validation Epochs](https://github.com/sp1d5r/ViraNovaAIModels/blob/0fedce40685e896e02fa1a50f81d42fcbcb2a774/graphs/RoBERTa%20/Validation%20Epochs.png)
+
+### Hyperparameter Sweep
+![graphs/RoBERTa /Hyperparam](https://github.com/sp1d5r/ViraNovaAIModels/blob/0fedce40685e896e02fa1a50f81d42fcbcb2a774/graphs/RoBERTa%20/Hyperparam%20Sweep.png)
 
 # Textual Models - GPT.3.5 (BASE)
 
